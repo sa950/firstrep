@@ -1,0 +1,1 @@
+// Creat empty JavaScript file
